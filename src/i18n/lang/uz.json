@@ -1,0 +1,63 @@
+{
+  "navbar": {
+    "features": "Imkoniyatlar",
+    "contact": "Aloqa",
+    "language": "UZ"
+  },
+
+  "hero": {
+    "badge": "Bugun dasturlashni boshlang",
+    "title": "Zamonaviy Web Dasturlashni O‘rganing",
+    "description": "React, i18n va Email integratsiyasi bilan real loyihalar yarating. Zamonaviy web texnologiyalarini o‘rganayotgan minglab talabalar safiga qo‘shiling.",
+    "getStarted": "Boshlash",
+    "contactUs": "Bog‘lanish",
+    "students": "Talabalar",
+    "projects": "Loyihalar",
+    "rating": "Reyting"
+  },
+
+  "technologies": {
+    "react": "React",
+    "i18n": "i18n"
+  },
+
+  "skills": {
+    "badge": "Nimalarni o‘rganasiz",
+    "title": "Dasturchilar uchun Amaliy Ko‘nikmalar",
+    "description": "Bizning dastur ish beruvchilar haqiqatan ham xohlaydigan amaliy ko‘nikmalarga yo‘naltirilgan. Faqat darslar emas, real loyihalar.",
+
+    "card1": {
+      "title": "Ko‘p tilli sayt (i18n)",
+      "description": "Bir nechta tillarda ishlaydigan saytlar yaratishni o‘rganing. Yirik kompaniyalar ishlatadigan i18n yondashuvlarini o‘zlashtiring.",
+      "link": "Batafsil"
+    },
+
+    "card2": {
+      "title": "Haqiqiy Email Aloqa Formasi",
+      "description": "Haqiqatan ham email yuboradigan kontakt formalar yarating. Frontend va backend’ni to‘liq bog‘lang.",
+      "link": "Batafsil"
+    },
+
+    "card3": {
+      "title": "Zamonaviy React Amaliyotlari",
+      "description": "Toza va qo‘llab-quvvatlanadigan kod yozing. Hook’lar, TypeScript va komponent yondashuvlaridan foydalaning.",
+      "link": "Batafsil"
+    }
+  },
+
+  "contact": {
+    "badge": "Bog‘lanish",
+    "title": "Boshlashga Tayyor",
+    "description": "Savollaringiz bormi? Xabar qoldiring, biz 24 soat ichida javob beramiz.",
+
+    "form": {
+      "name": "Ismingiz",
+      "namePlaceholder": "Ali Valiyev",
+      "email": "Email Manzil",
+      "emailPlaceholder": "ali@example.com",
+      "message": "Xabaringiz",
+      "messagePlaceholder": "Nimani o‘rganmoqchi ekaningizni yozing...",
+      "button": "Xabar Yuborish"
+    }
+  }
+}

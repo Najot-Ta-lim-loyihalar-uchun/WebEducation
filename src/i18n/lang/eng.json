@@ -1,0 +1,63 @@
+{
+  "navbar": {
+    "features": "Features",
+    "contact": "Contact",
+    "language": "EN"
+  },
+
+  "hero": {
+    "badge": "Start Your Coding Journey Today",
+    "title": "Learn Modern Web Development",
+    "description": "Build real projects with React, i18n, and Email integration. Join thousands of students mastering modern web technologies.",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "students": "Students",
+    "projects": "Projects",
+    "rating": "Rating"
+  },
+
+  "technologies": {
+    "react": "React",
+    "i18n": "i18n"
+  },
+
+  "skills": {
+    "badge": "What You'll Learn",
+    "title": "Real-World Skills for Developers",
+    "description": "Our curriculum focuses on practical skills that employers actually want. Build projects, not just tutorials.",
+
+    "card1": {
+      "title": "Multi-language Website (i18n)",
+      "description": "Learn to build websites that speak multiple languages. Master internationalization patterns used by top tech companies.",
+      "link": "Learn more"
+    },
+
+    "card2": {
+      "title": "Real Email Contact Form",
+      "description": "Create functional contact forms that actually send emails. Connect frontend with backend services seamlessly.",
+      "link": "Learn more"
+    },
+
+    "card3": {
+      "title": "Modern React Best Practices",
+      "description": "Write clean, maintainable code following industry standards. Use hooks, TypeScript, and component patterns.",
+      "link": "Learn more"
+    }
+  },
+
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Ready to Start",
+    "description": "Have questions? Send us a message and we'll get back to you within 24 hours.",
+
+    "form": {
+      "name": "Your Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@example.com",
+      "message": "Your Message",
+      "messagePlaceholder": "Tell us what you'd like to learn...",
+      "button": "Send Message"
+    }
+  }
+}

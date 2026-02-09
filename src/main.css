@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --color-box: #e5e7eb;
+  --color-text: #030711;
+  --color-main: #6467f2;
+  --color-second: #b447eb;
+}
+
+.container {
+  margin: 0 auto;
+  padding-left: 32px;
+  padding-right: 32px;
+  max-width: 1400px;
+}
