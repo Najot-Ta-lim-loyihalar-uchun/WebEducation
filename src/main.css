@@ -1,9 +1,5 @@
 @import "tailwindcss";
 
-html {
-  font-size: 62.5%;
-}
-
 :root {
   --color-box: #e5e7eb;
   --color-title: #030711;
@@ -14,10 +10,26 @@ html {
 }
 
 .container {
-  margin: 0 auto;
-  padding-left: 32px;
-  padding-right: 32px;
-  max-width: 1400px;
+  width: 100%;
+  max-width: 1370px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: auto;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+@keyframes move {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
 }
 
 .lang-btn {
